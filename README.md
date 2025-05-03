@@ -39,7 +39,7 @@ File names are organized and commented for clarity and easy navigation.
 Watch the full course on YouTube:  
 [Bro Code – C Programming Full Course]
 
-<a href="https://www.youtube.com/watch?v=KJgsSFOSQv0" target="_blank">
+<a href="https://www.youtube.com/watch?v=87SH2Cn0s9A" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
