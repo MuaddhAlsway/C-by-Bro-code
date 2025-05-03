@@ -37,19 +37,30 @@ File names are organized and commented for clarity and easy navigation.
 ## 🔗 Course Link
 
 Watch the full course on YouTube:  
-[Bro Code – C Programming Full Course](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+[Bro Code – C Programming Full Course]
+
+<a href="https://www.youtube.com/watch?v=KJgsSFOSQv0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+
 
 ## 👨‍💻 About Me
 
 I'm **Muaddh Alsway**, a passionate front-end developer and computer science student.  
 This repository is part of my ongoing journey through **CS50** and deeper computer science studies.
 
-- GitHub: [MuaddhAlsway](https://github.com/MuaddhAlsway)  
-- LinkedIn: [Muaddh Alsway](https://www.linkedin.com/in/muaddh-alsway/)
+<div>
+  <a href="https://github.com/MuaddhAlsway" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+<a href="https://www.linkedin.com/in/muaddh-alsway/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ## 📌 Note
 
-Feel free to use this code for learning purposes. If you find it helpful, consider starring the repo ⭐
+You can use this code for learning purposes. If you find it helpful, consider starring the repo ⭐
 
 ---
 
