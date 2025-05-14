@@ -35,13 +35,7 @@ File names are organized and commented for clarity and easy navigation.
 ✅ All code from the Bro Code C course is fully implemented and organized.
 
 ## 🔗 Course Link
-
-Watch the full course on YouTube:  
-[Bro Code – C Programming Full Course]
-
-<a href="https://www.youtube.com/watch?v=87SH2Cn0s9A" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+[![Full Course](https://img.shields.io/badge/%20C%20Programming%20Course-Bro%20Code-blue?style=for-the-badge)](https://www.youtube.com/watch?v=87SH2Cn0s9A)
 
 
 ## 👨‍💻 About Me
